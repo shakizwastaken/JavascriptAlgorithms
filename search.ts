@@ -38,7 +38,7 @@ export const binarySearch: search = (arr, target) => {
     );
 };
 
-console.log(binarySearch(sortedArr, 3)); // 2
-console.log(binarySearch(sortedArr, 0)); // -1
+// console.log(binarySearch(sortedArr, 3)); // 2
+// console.log(binarySearch(sortedArr, 0)); // -1
 
 // Big O : O(n)
